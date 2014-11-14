@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSUD", "KSUD\KSUD.csproj", "{F315CCBA-8D79-4650-A67A-2BDD39C57923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSUDTests", "KSUDTests\KSUDTests.csproj", "{0050A487-DE9C-4F3E-A2F4-E5087827D083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0050A487-DE9C-4F3E-A2F4-E5087827D083}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0050A487-DE9C-4F3E-A2F4-E5087827D083}.Debug|x86.Build.0 = Debug|Any CPU
+		{0050A487-DE9C-4F3E-A2F4-E5087827D083}.Release|x86.ActiveCfg = Release|Any CPU
+		{0050A487-DE9C-4F3E-A2F4-E5087827D083}.Release|x86.Build.0 = Release|Any CPU
+		{F315CCBA-8D79-4650-A67A-2BDD39C57923}.Debug|x86.ActiveCfg = Debug|x86
+		{F315CCBA-8D79-4650-A67A-2BDD39C57923}.Debug|x86.Build.0 = Debug|x86
+		{F315CCBA-8D79-4650-A67A-2BDD39C57923}.Release|x86.ActiveCfg = Release|x86
+		{F315CCBA-8D79-4650-A67A-2BDD39C57923}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = KSUD\KSUD.csproj
+	EndGlobalSection
+EndGlobal
